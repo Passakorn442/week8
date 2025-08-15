@@ -1,0 +1,12 @@
+form{
+    width: 300px;
+    background-color: bisque;
+
+    padding: 10px;
+
+    border: 2px dashed darkblue;
+}
+
+h1{
+    text-align: center;
+}
